@@ -1,0 +1,34 @@
+commit: linux 06/10
+commit: restReq commented. -windows 06/10
+commit: header, API route, subdomain -windows 06/10
+commit: Dashboard CSS  -windows 06/10
+commit: Dashboard working prototype. Image Uploading and Classification -windows 06/10
+commit: add:Loader Component -windows 06/10
+commit: add:comments -linux 08/10
+commit: add:Splash -linux 08/10
+commit: change:Splash.js -linux 08/10
+commit: change:Help.js -linux 08/10
+commit: change: CurrentView->Dashboard -windows 9/10
+commit: add: MyComponent -windows 9/10
+commit: add: Register.js -linux 10/10
+commit: update: Register.js -linux 10/10
+commit: update: Register.js -linux 10/10
+commit: update: Register.js->Registration -windows 10/10
+commit: update: Login.js->User Login -windows 10/10
+commit: change: Login Props, Model Tag Update -windows 11/10
+commit: change: Dashboard.js-> Model Response fetch, database plant details fetch -windows 11/10
+commit: change: Dashboard.js-> Plant Validation->userPlant & detectedPlant -windows 11/10
+commit: change: Dashboard.js-> User Session -windows 11/10
+commit: update: Dashboard.js-> Select Plant -linux 11/10
+commit: change: Dashboard.js-> Button Styles, User Feedbacks -windows 12/10
+commit: add: Card.js -windows 12/10
+commit: add: Result.js-> Data Extract, Mapping -windows 12/10
+commit: fix: Result.js->diseaseName -windows 12/10
+commit: add: FailAlert.js->Disease Detection Failed -windows 13/10
+commit: change: Dashboard.js->Change Model -windows 13/10
+commit: fix: Dashboard.js->Loader Visibilty, Button Visibilty -windows 13/10
+commit: change: Loader.js->New Icon -windows 13/10
+commit: change: Help.js->New Icon, Result.js-> Expandable Cards -windows 13/10
+commit: fix: Dashboard.js->currentUser Undefined -windows 14/10
+commit: change: Result.js->Email, Tel Links -windows 14/10
+commit: change: Help.js->Layout -windows 14/10
