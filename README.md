@@ -11,6 +11,11 @@ to take a photo of the part of a plant that you needed a guide to understand whe
 or not. And Dr. Plant will give you a pre-consultancy if it is a disease, how you should act in that
 situation and what are the precautions you need to follow to save your plant.
 
+### Screenshots
+<p float="left">
+<img src="https://i.imgur.com/pB54Gsl.png" width="500px" height="100%">
+<img src="https://i.imgur.com/FMAV8VZ.png" width="150px" height="100%">
+</p>
 ### Azure Performance Scheme </br>
 <img src="https://i.imgur.com/3g0AmcT.png">
 
