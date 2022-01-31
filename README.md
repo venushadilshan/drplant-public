@@ -12,13 +12,13 @@ or not. And Dr. Plant will give you a pre-consultancy if it is a disease, how yo
 situation and what are the precautions you need to follow to save your plant.
 
 ### Azure Performance Scheme </br>
-<img src="https://i.ibb.co/p42np7m/Screenshot-169.png">
+<img src="https://i.imgur.com/3g0AmcT.png">
 
 <br>
 
 ### A few samples images of diseased plants
-<img src="https://i.ibb.co/1nXRbDb/Screenshot-171.png">
-<img src="https://i.ibb.co/0VF7CMs/Screenshot-170.png">
+<img src="https://i.imgur.com/FOyuKSO.png">
+<img src="https://i.imgur.com/vq9Sxfv.png">
 
 ### Languages and Tools:
 <p float="left">
