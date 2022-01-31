@@ -224,7 +224,7 @@ class Dashboard extends React.Component {
       console.log("Prob: " + this.state.probability)
       //alert("Class: " + this.state.output)
 
-      var apiEndPoint = "https://drplant.venusha.com/api/getResult.php";
+      var apiEndPoint = process.env.REACT_APP_API_ROOT+"/getResult.php";
       let formData = new FormData();
       var returnDid = this.state.output;
       formData.append("dID", val)
