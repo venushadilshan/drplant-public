@@ -14,7 +14,7 @@ situation and what are the precautions you need to follow to save your plant.
 ### Azure Performance Scheme </br>
 <img src="https://i.imgur.com/3g0AmcT.png">
 
-### A few samples images of diseased plants
+### A few sample images of diseased plants
 <img src="https://i.imgur.com/FOyuKSO.png">
 <img src="https://i.imgur.com/vq9Sxfv.png">
 
