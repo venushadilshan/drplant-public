@@ -1,6 +1,6 @@
 ## Dr.Plant - Intelligent Plant Disease Detection System 🌱
 
-[Try out!  🍃  ](https://drplant.venusha.com/app)
+[Try out!   🍃  ](https://drplant.venusha.com/app)
 
 <img src="https://i.ibb.co/DDHgrgZ/cover-drplant.png"/>
 
