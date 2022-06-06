@@ -46,8 +46,8 @@ situation and what are the precautions you need to follow to save your plant.
 
 ### 📺 Contribution
 
-- Venusha Dushmantha - Fullstack Developer, UI UX Designer - www.venusha.com
 - Prageeth Fernando - Project Manager, Back-End Developer - www.prageeth.xyz 
+- Venusha Dushmantha - Fullstack Developer, UI UX Designer - www.venusha.com
 - Gayan Herath - Front-End Developer, Tester 
 - Akalanka Panapitiya - UI UX Designer, System Designer
 - Dasun Samarawickrama - Developer, Tester 
